@@ -14,11 +14,11 @@ public class CarsController {
 
   @PostMapping
   public void RegisterCar (@RequestBody CarsDTO req){
-    System.out.println(" valor: " + req.valor());
-    System.out.println(" data de fabricação: " + req.dataFabricacao());
-    System.out.println(" modelo: " + req.modelo());
-    System.out.println(" fabricante: " + req.fabricante());
-    System.out.println(" ano modelo:" + req.anoModelo());
+    System.out.println( "\033[0;35m" + "\u001b[1mValor:\u001b[m" + req.valor());
+    System.out.println( "\033[0;35m" + "\u001b[1mDataDeFabricação:\u001b[m"  + req.dataFabricacao());
+    System.out.println( "\033[0;35m" + " \u001b[1mModelo:\u001b[m:" + req.modelo());
+    System.out.println( "\033[0;35m" + " \u001b[1mFabricante:\u001b[m" + req.fabricante());
+    System.out.println( "\033[0;35m" + " \u001b[1mAnoModelo:\u001b[m" + req.anoModelo());
  
 }
     
