@@ -14,7 +14,11 @@ public class CarsController {
 
   @PostMapping
   public void RegisterCar (@RequestBody CarsDTO req){
-    System.out.println(req.anoModelo());
+    System.out.println(" valor: " + req.valor());
+    System.out.println(" data de fabricação: " + req.dataFabricacao());
+    System.out.println(" modelo: " + req.modelo());
+    System.out.println(" fabricante: " + req.fabricante());
+    System.out.println(" ano modelo:" + req.anoModelo());
  
 }
     
