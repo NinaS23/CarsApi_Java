@@ -3,6 +3,10 @@
     <img height="240px" src="https://em-content.zobj.net/source/skype/289/automobile_1f697.png">
   </div>
   
+<p align = "center">
+   <img src="https://img.shields.io/badge/author-NinaS23-4dae71?style=flat-square" />
+</p>
+  
 <div align="center">
   <h3>Build With</h3>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="30px"/>
