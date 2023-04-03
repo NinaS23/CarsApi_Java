@@ -15,7 +15,7 @@
 
 #  features developed 
 - [x] get properties from POST request body
-- [X] create a dto file for car properties
+- [X] create a DTO (data transfer object) file for car properties
 
 
 # Getting Started
