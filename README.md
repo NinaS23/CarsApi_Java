@@ -1,6 +1,6 @@
 # Cars_Api_Java
   <div align='center'>
-    <img height="240px" src="https://em-content.zobj.net/source/skype/289/automobile_1f697.png">
+    <img height="240px" src="https://em-content.zobj.net/source/microsoft-teams/337/automobile_1f697.png">
   </div>
   
 <p align = "center">
@@ -14,7 +14,7 @@
 </div>
 
 #  features developed 
-- [x] get properties from POST request body
+- [x] post car properties 
 - [X] create a dto file for car properties
 
 
