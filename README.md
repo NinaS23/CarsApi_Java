@@ -14,7 +14,7 @@
 </div>
 
 #  features developed 
-- [x] post car properties 
+- [x] get properties from POST request body
 - [X] create a dto file for car properties
 
 
